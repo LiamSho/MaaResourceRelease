@@ -1,0 +1,2 @@
+# MaaResourceRelease
+Test Repo
